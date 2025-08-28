@@ -46,7 +46,7 @@ ai-battery-materials/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ai-battery-materials.git
+   git clone https://github.com/BufferOverthrow/ai-battery-materials.git
    cd ai-battery-materials
    ```
 
