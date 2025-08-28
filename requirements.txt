@@ -1,0 +1,30 @@
+# Core
+torch>=2.2
+torchvision>=0.17
+torchaudio>=2.2
+
+# PyTorch Geometric (install wheels as needed per CUDA setup)
+torch-geometric>=2.5
+
+# Materials / Datasets
+matminer>=0.9.0
+pymatgen>=2024.6.10
+
+# Data / Sci
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+
+# Viz
+matplotlib>=3.9
+seaborn>=0.13
+
+# App / API (optional)
+fastapi>=0.111
+uvicorn>=0.30
+streamlit>=1.36
+gradio>=4.36
+
+# Tracking (optional)
+tensorboard>=2.17
+wandb>=0.17
